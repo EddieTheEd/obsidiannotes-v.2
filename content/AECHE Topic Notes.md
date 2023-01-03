@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "11AECHE Topic Notes"
+title: "AECHE Topic Notes"
 ---
 
 ### Checklist:
@@ -27,3 +27,5 @@ title: "11AECHE Topic Notes"
 - [[Reactions of Hydrocarbons|Reactions of Hydrocarbons]] 🟥
 - [[Energy and Enthalpy|Energy and Enthalpy]] 🟥
 - [[Rate of Reaction|Rate of Reaction]] 🟥
+- [[Separation Techniques]] 🟩
+- [[Water Quality]] 🟩 $\leftarrow$ this one is good

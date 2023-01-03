@@ -9,7 +9,7 @@ I will not be adding a "return to x" button, that exists already.
 
 ## Year 10 Subjects:
 * **Chemistry Yr 11:**
-	* [[11AECHE Topic Notes|Topic Notes]]
+	* [[AECHE Topic Notes|Topic Notes]]
 	* [[AECHE Class Notes|Class Notes]]
 	* [[11AECHE Published Notes|Published Notes]]
 * [[Yr 10 Methods Notes|Methods Notes]] 
