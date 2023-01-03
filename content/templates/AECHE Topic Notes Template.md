@@ -1,6 +1,8 @@
 ---
+layout: default
+title: "{{title}}"
 tags:
-  - 
+  - #AECHE_Topic
 ---
 
 # {{title}}
@@ -17,3 +19,7 @@ tags:
 
 
 ## Summary
+
+
+## Related Class Notes
+- 

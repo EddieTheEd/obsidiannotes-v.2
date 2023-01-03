@@ -170,12 +170,12 @@ Definition of a few key things:
 
 ---
 ## Related Class Notes:
-- [[11AECHE Class 1]]
-- [[11AECHE Class 2]]
-- [[11AECHE Class 3]]
-- [[11AECHE Class 4]]
-- [[11AECHE Class 5]]
-- [[11AECHE Class 7]]
-- [[11AECHE Class 18]]
-- [[11AECHE Class 23]]
+- [[R-AECHE-1]]
+- [[R-AECHE-2]]
+- [[R-AECHE-3]]
+- [[R-AECHE-4]]
+- [[R-AECHE-5]]
+- [[R-AECHE-7]]
+- [[R-AECHE-18]]
+- [[R-AECHE-23]]
 - [[Chem Cap 1 Notes]]

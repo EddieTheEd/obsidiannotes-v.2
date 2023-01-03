@@ -8,4 +8,4 @@ title: "Metallic Bonding"
 
 ## Related Class Notes
 
-* [11AECHE Class 17](11AECHE%20Class%2017.md)
+* [[R-AECHE-17]]

@@ -100,11 +100,11 @@ Good Resources to Review:
 * ==**research similarities / differences of flame test to AAS**==
 
 ## Related Class Notes:
-* [[11AECHE Class 9]]
-* [[11AECHE Class 10]]
-* [[11AECHE Class 11]]
-* [[11AECHE Class 12]]
-* [[11AECHE Class 13]]
-* [[11AECHE Class 14]]
-* [[11AECHE Class 15]]
-* [[11AECHE Class 24]]
+* [[R-AECHE-9]]
+* [[R-AECHE-10]]
+* [[R-AECHE-11]]
+* [[R-AECHE-12]]
+* [[R-AECHE-13]]
+* [[R-AECHE-14]]
+* [[R-AECHE-15]]
+* [[R-AECHE-24]]
