@@ -13,7 +13,7 @@
 		{"id":"f7e0228a640efc68","x":404,"y":114,"width":250,"height":158,"type":"text","text":"layout: default\ntitle: \"{{title}}\"\ntags: {{subject}}"},
 		{"id":"84ec7fa05a430572","x":404,"y":430,"width":395,"height":318,"type":"text","text":"- Definitions\n- Key Ideas\n- Questions\n\t- Worked Summary\n- Topic Summary\n- Revision: Reference at start?(? wtf does that mean)"},
 		{"id":"beff004601c9eacc","x":858,"y":561,"width":250,"height":56,"color":"4","type":"text","text":"Example: (WIP)"},
-		{"id":"b2917830dfd9106e","x":1194,"y":389,"width":400,"height":400,"color":"#001eff","type":"file","file":"templates/Chem Notes Planner (Rough Template).md"},
+		{"id":"b2917830dfd9106e","x":1194,"y":389,"width":400,"height":400,"color":"#001eff","type":"file","file":"templates/AECHE Topic Notes Template.md"},
 		{"id":"0d7831ee426304f9","x":-980,"y":-832,"width":2691,"height":1830,"color":"4","type":"group","label":"The Plan"},
 		{"id":"913e82fddc5c4388","x":-2307,"y":-86,"width":250,"height":60,"type":"text","text":"Convention:"},
 		{"id":"977ecc740ffcc9a7","x":-1894,"y":-86,"width":460,"height":60,"type":"text","text":"There is literally no convention"},
