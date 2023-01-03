@@ -4,7 +4,7 @@ layout: default
 
 *Date: 2022 07 16 Time: 12:37*
 
-Status: [[001_Notes/AECHE Topic Notes|AECHE Topic Notes]]
+Status: [[AECHE Class Notes]]
 
 Tags: 
 

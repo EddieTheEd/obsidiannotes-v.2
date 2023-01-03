@@ -1,7 +1,7 @@
 *Date: 20220312 Time: 1936*
 
 
-Status: [[001_Notes/AECHE Topic Notes|AECHE Topic Notes]]
+Status: [[AECHE Class Notes]]
 
 Tags: 
 
