@@ -1,14 +1,8 @@
 ---
 layout: default
+title: "Water Quality"
 ---
 
-*Date: 2022 07 16 Time: 12:37*
-
-Status: [[AECHE Class Notes]]
-
-Tags: 
-
-# Water Quality
 
 sadly this exists
 

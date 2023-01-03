@@ -1,13 +1,7 @@
-*Date: 20220312 Time: 1936*
-
-
-Status: [[AECHE Class Notes]]
-
-Tags: 
-
-
-# Separation Techniques
-
+---
+layout: default
+title: "Separation Techniques"
+---
 
 ## Notes
 
