@@ -22,6 +22,17 @@ I will not be adding a "return to x" button, that exists already.
 * [[10SCI Notes]]
 * [[10ENG Notes]]
 * [[10LIT Notes]]
+* [[10CSL Notes]]
 
 For Fred:
 - [Bio Body Reponse Notes](Bio%20Body%20Reponse%20Notes.md)
+
+### Obscure Rabbit Holes
+- [[Markdown Resources]]
+- [[Math Working Out]]
+- [[Math Working Out 2]]
+- [[The most important symbol in the universe]]
+- [[Anthony's B-Day GIft]]
+- [[Spec Notes]]
+- [[Spec Proofs]]
+- [[Finding angle given 3 sides without using cosine rule]]

@@ -10,6 +10,7 @@ title: "10LIT Notes"
 - [[10LIT/Literature Poetry Creative Practice]]
 - [[10LIT/Literature Rationale]]
 - [[10LIT/Literature Romanticism Overview]]
+- [[10LIT/Lit Exam Essay Planning]]
 
 [[10LIT/Axis Victory|Not sus]]
 [[10LIT/A Tale of Two Suns|less sus but i think its still sus]]
