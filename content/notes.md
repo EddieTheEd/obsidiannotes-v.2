@@ -26,6 +26,10 @@ I will not be adding a "return to x" button, that exists already.
 
 For Fred:
 - [Bio Body Reponse Notes](Bio%20Body%20Reponse%20Notes.md)
+- [[Fred Test Chem 1]]
+- [[Fred Test Chem 2]]
+- [[Fred Exam Chem 1]]
+- [[Fred Plan]]
 
 ### Obscure Rabbit Holes
 - [[Markdown Resources]]
