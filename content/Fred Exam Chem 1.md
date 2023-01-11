@@ -74,7 +74,7 @@ b) How many grams of precipitate is produced? (3 marks)
 4. (7 marks) **2**
 Henry Bui is feeling sad today, and considers using Phosphoric acid. He finds that he needs 6 moles of Protons ($H^{+}$) to do what he wants to do.
 
-$H_{3}PO_{4(aq)} \to 3H^{+}_{(aq)} + PO_{4(aq)}^{3-}$
+$$H_{3}PO_{4(aq)} \to 3H^{+}_{(aq)} + PO_{4(aq)}^{3-}$$
 
 a) Assuming all molecules of phosphoric acid ionise into protons in solution, how many grams of phosphoric acid does Henry need? (2 marks)
 
