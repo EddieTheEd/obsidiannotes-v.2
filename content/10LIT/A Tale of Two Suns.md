@@ -1,10 +1,8 @@
-*Date: 20220508 Time: 2025*
-
-Status: 
-
-Tags:
-
-# A Tale of Two Suns
+---
+layout: default
+title: "A Tale of Two Suns"
+draft: true
+---
 
 man i actually could've written something about this
 

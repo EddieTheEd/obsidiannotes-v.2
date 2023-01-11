@@ -1,10 +1,8 @@
-	*Date: 20220508 Time: 2024*
-
-Status: 
-
-Tags:
-
-# Axis Victory
+---
+layout: default
+title: "Axis Victory"
+draft: true
+---
 
 listen i was really young and stupid, and christian made me write this
 
